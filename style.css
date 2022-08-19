@@ -1,0 +1,81 @@
+.bc1{
+	background: #fa0e0e
+} /* Cabeçalho */
+
+.bc2{
+	background: #ffffff
+}  /* pagina inteira */
+
+.bc3{
+	background: #ff1e1e
+}
+
+.stimagens{
+width: 60%;
+}
+
+.center{
+	text-align: center;
+}/* centralizar */
+
+
+.margem{
+	padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: 0px;
+}
+
+.margem2{
+	padding-left: 350px;
+    padding-right: 300px;
+    margin-bottom: 0px;
+}
+
+.sub{
+	font-size: 24px
+}
+
+h1{
+	font-size: 40px
+}
+
+h2{
+	font-size: 30px
+}
+
+p{
+	font-size: 20px
+}
+
+.sub2{
+	font-size: 34px;
+}
+
+.font{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.clfont{
+	font: #ffffff;
+}
+
+.weight{
+	font-weight: 700;
+}
+
+
+.imgsombra{
+	border: 12px solid rgb(194, 189, 189)
+}
+
+.rdsombra{
+	border: 10px solid #cc0a0a;
+	position: relative;
+	
+}
+
+
+.pesquisa{
+	padding-left: 75%;
+	
+}
